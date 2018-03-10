@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JetBrains.Annotations", "src\JetBrains.Annotations\JetBrains.Annotations.csproj", "{F1FE06D5-0466-4972-8746-3854226F8C7A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "extras", "extras", "{9C29ACC7-D90E-4BD2-827B-16D186B67702}"
+	ProjectSection(SolutionItems) = preProject
+		JetBrains.Annotations.nuspec = JetBrains.Annotations.nuspec
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1FE06D5-0466-4972-8746-3854226F8C7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1FE06D5-0466-4972-8746-3854226F8C7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1FE06D5-0466-4972-8746-3854226F8C7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1FE06D5-0466-4972-8746-3854226F8C7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9306698-9DD1-4CA1-B5F1-56DEE55D78ED}
+	EndGlobalSection
+EndGlobal
