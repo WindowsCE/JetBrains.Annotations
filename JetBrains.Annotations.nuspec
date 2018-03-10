@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
-    <id>JetBrains.Annotations.WindowsCE</id>
+    <id>ReSharper.Annotations.WindowsCE</id>
     <version>$version$</version>
     <title>JetBrains ReSharper Annotations for Windows CE</title>
     <description>
