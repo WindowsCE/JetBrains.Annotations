@@ -1,12 +1,10 @@
 ﻿internal static class Consts
 {
-    public const string PlatformNotSupportedDescription = "This member is not supported for current platform";
-
     public const string Product = "JetBrains.Annotations.WindowsCE";
     public const string Description = "JetBrains ReSharper Annotations for Windows CE.";
     public const string AssemblyVersion = "11.0.0.0";
-    public const string FileVersion = "11.1.0.0";
-    public const string ProductVersion = "11.1.0";
+    public const string FileVersion = "11.1.1.0";
+    public const string ProductVersion = "11.1.1";
     public const string Copyright = "© JetBrains";
     public const string Company = "JetBrains";
 
